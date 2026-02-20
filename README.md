@@ -3,7 +3,7 @@
 
 Remote Gamepad is a virtual, lightweight, flexible app that turns smartphones into virtual game controllers. With custom layouts, multi-platform support, and various connection methods, it provides an accessible way to enhance your gaming setup without extra physical controller.
 # [1. Get a version of Remote Gamepad from Releases](https://github.com/DreamPack-Software/RemoteGamepad/releases/)
-# [2. Get the APK for Android! (Coming Soon)](Coming Soon)
+# [2. Get the APK for Android! (Coming Soon)]
 ## ✨ Key Features
 
 📶 Wireless Gamepad
