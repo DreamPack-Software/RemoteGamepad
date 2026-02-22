@@ -40,7 +40,7 @@ Local pairing between mobile device and host system
 
 Virtual controller input via host software
 
-Bluetooth is not officially supported in most builds
+Bluetooth is supported! Means you don't need Wi-Fi or USB at all!
 
 🎯 Common Use Cases
 ---
